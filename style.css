@@ -1,0 +1,23 @@
+body{
+    background-size: cover;
+}
+.h1 {
+    width: 99%;
+    font-size: 25px;
+    margin-top: 5px;
+    background-color: rgb(0, 139, 104);
+    font-weight: bolder;
+    color:black;
+}
+canvas{
+    border-radius: 15px;
+    border: 7px solid beige;
+    background-color: #000000;
+    box-shadow: 5px 5px 5px #5500ff;
+}
+.mgt{
+    margin-top: 50px;
+    width: 30%;
+    font-size: 15px;
+    border-radius: 20px;
+}
